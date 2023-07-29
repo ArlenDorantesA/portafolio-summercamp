@@ -1,0 +1,22 @@
+#img-perfil{
+    height: 50px; width: 25px;
+}
+
+#img-imagen2{
+    height: 50px; width: 25px;
+}
+
+.bg-primary{
+    background-color: #3de31c!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #fd9843!important;
+}
+.carousel-item {
+    height: 400px;
+}
